@@ -1,7 +1,9 @@
 # Matheus Hoske 🚀
 
 Software Engineer & Product Builder
+
 Founder at Hoskes Desenvolvimento de Sistemas
+
 Backend & POS Architecture Reference at Linear Sistemas
 
 Software engineer with **8+ years of experience** in **engineering, architecture, and large-scale systems**, building **production-grade software** focused on **scalability, automation, and AI-driven products**.
